@@ -1,1 +1,1 @@
-# vicky-fekt
+# bombastický fekt repozitář
